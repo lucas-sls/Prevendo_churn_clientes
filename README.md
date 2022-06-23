@@ -6,7 +6,7 @@
 ### SEGMENTAÇÃO E LINKS PARA ACESSO AOS ARTIGOS: 
 
 
-##### *PARTE 1 (PUBLICADO EM 17/06/2022)* - ESTRUTURAÇÃO DO PROJETO:
+#### *PARTE 1 (PUBLICADO EM 17/06/2022)* - ESTRUTURAÇÃO DO PROJETO:
 
 https://medium.com/@lucasfonsecamller/an%C3%A1lise-e-previs%C3%A3o-do-churn-de-clientes-em-um-banco-parte-1-74c69529c02
 
